@@ -12,7 +12,42 @@
 </div>  
 
 <div class="progess">
-<h1>Semaine 1</h1>
+  <div class="semaine 1">
+    <h1>Semaine 1</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 2">
+    <h1>Semaine 2</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 3">
+    <h1>Semaine 3</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 4">
+    <h1>Semaine 4</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 5">
+    <h1>Semaine 5</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 6">
+    <h1>Semaine 6</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 7">
+    <h1>Semaine 7</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 8">
+    <h1>Semaine 8</h1>
+    <h3>Paragraph</h3>
+  </div>
+  <div class="semaine 9">
+    <h1>Semaine 9</h1>
+    <h3>Paragraph</h3>
+  </div>
 </div>
 
 
