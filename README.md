@@ -8,13 +8,13 @@
   <h3>Ce projet consiste à améliorer le système DyNotate, construit par moi et l'équipe de Ian Arawjo durant l'été. L'objectif est de résoudre toutes les "dettes techniques" et d'approfondir les fonctionnalités possibles, telles que la création de "règles", afin d'atteindre, comme but final, la possibilité de jouer à un jeu de "sketch" avec DyNotate et de voir ce dernier nous battre dans ce même jeu. La plus grande charge de travail consistera à améliorer les fonctionnalités déjà créées pour obtenir un résultat semblant déterministe, malgré le fait que le système soit construit sur des LLM. 
 </h3>
   <h3>Mon rôle : Mon rôle sera d'aider mes coéquipiers dans le même projet à comprendre et suivre les directives de M. Ian, d'améliorer la base de code pour une meilleure assimilation par les nouveaux arrivants sur le projet, et d'explorer le concept de "règles" et de "gestures" dans un système de "sketching" intégré avec l'IA. L'objectif final est d'intégrer le concept de "règles" dans la base de code afin qu'il soit prêt à être utilisé par des utilisateurs.</h3>
-  <h3>Défis :
-    1) Les technologies d'IA actuelles ne sont pas adéquates pour le raisonnement spatial dans un canvas. Voir les limitations.
-    2) Les modèles de langage actuels (LLM) ne sont pas adaptés pour créer des "bounding boxes" afin de connaître les emplacements des figures dans le canvas.
-    3) Les frameworks de dessin sur canvas utilisent tous la technique des "strokes" pour construire les formes. Regrouper les "strokes" puis les transmettre à l'IA sous forme de formes complètes est très complexe.
-    4) Le plus grand défi est de transmettre l'information fournie par l'utilisateur via l'API de Tldraw et de la convertir en données compréhensibles par un LLM, permettant au modèle de répondre d'une manière qui puisse être retransmise à Tldraw, créant ainsi une conversation fluide et naturelle entre l'utilisateur et une IA capable d'interagir avec le canvas.
-    5) Cela n'a jamais été réalisé.
-  </h3>
+  <h2>Défis :</h2>
+    <h3>1) Les technologies d'IA actuelles ne sont pas adéquates pour le raisonnement spatial dans un canvas. Voir les limitations.</h3>
+    <h3>2) Les modèles de langage actuels (LLM) ne sont pas adaptés pour créer des "bounding boxes" afin de connaître les emplacements des figures dans le canvas.</h3>
+    <h3>3) Les frameworks de dessin sur canvas utilisent tous la technique des "strokes" pour construire les formes. Regrouper les "strokes" puis les transmettre à l'IA sous forme de formes complètes est très complexe.</h3>
+    <h3>4) Le plus grand défi est de transmettre l'information fournie par l'utilisateur via l'API de Tldraw et de la convertir en données compréhensibles par un LLM, permettant au modèle de répondre d'une manière qui puisse être retransmise à Tldraw, créant ainsi une conversation fluide et naturelle entre l'utilisateur et une IA capable d'interagir avec le canvas.</h3>
+    <h3>5) Cela n'a jamais été réalisé.</h3>
+  
   <h4>Contexte: Je suis sur ce project depuis mai 2024.</h4>
 </div>  
 
