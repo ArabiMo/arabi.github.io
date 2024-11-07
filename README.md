@@ -30,6 +30,9 @@
   <div class="Progress 3 ">
     <h1>Semaine 5-6 (27 sept - 11 oct)</h1>
     <h3>Rencontre des coéquipiers du projet avec M. Ian et individuellement avec moi. Le but final du projet nous a été divulgué par M. Ian : nous devons permettre au système existant d'apprendre un jeu en "sketch" et de pouvoir y jouer avec nous. Nous avions commencé par chacun créer un jeu inédit chacun et explorer plusieurs façons de transférer le concept de "règle" à plusieurs modèles de langage (LLM) pour déterminer la meilleure approche pour faire apprendre un jeu inédit à l'IA. Nous devions également créer un rapport de jeu et une analyse à présenter à M. Ian. J'ai aussi fait un design d'architecture pour le systeme afin de pouvoir integrer les 'regles' et je l'ai presenter a l'equipe et M. Ian.</h3>
+    <h4>Probleme : L'apect technique pour transmettre une regle qui a des consequences sur le resonement spatial au AI n'a jamais ete faite et semble tres complexe.</h4>
+    <h4>Solution : Tentative de creation d'un designe d'architerture pour implementer les 'rules', afin de connaiter les blocus  qu'il faut reglrer.</h4>
+    <h4>Blocus techniques :Comment vérifier qu'une entrée utilisateur respecte les règles ?Comment vérifier qu'une entrée IA respecte les règles ?Comment permettre à l'IA de corriger une erreur, de demander une clarification, et de distinguer entre une règle et une directive dans le prompt envoyé par l'utilisateur ?Comment faire en sorte que l'IA sache quand elle peut interagir dans le canvas ?Comment accomplir tout cela sans restreindre la liberté de l'IA ? etc...</h4>
   </div>
   <div class="Progress 4 ">
     <h1>Semaine 7 (12 oct - 18 oct)</h1>
