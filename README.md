@@ -12,28 +12,28 @@
 </div>  
 
 <div class="progess">
-  <div class="Progress 1 (1 sept - 18 sept">
-    <h1>Semaine 1-2</h1>
+  <div class="Progress 1 ">
+    <h1>Semaine 1-2 (1 sept - 18 sept)</h1>
     <h3>Ecriture du papier DyNotate: Dynamic Definition of Notations with Interactive AI pour la soumission du CHI2025. Creation et 'Edit' de videos demonstrations de DyNotate pour presentation du system. Amelioration du code base pour meuilleur interpretation du code.</h3>
   </div>
-  <div class="Progress 2 (19 sept - 26 sept">
-    <h1>Semaine 3-4</h1>
+  <div class="Progress 2 ">
+    <h1>Semaine 3-4 (19 sept - 26 sept)</h1>
     <h3>Pause sur le project pour ma part sous l'orde de Mr. Ian. (18 semaines de suite sur le projet)</h3>
   </div>
-  <div class="Progress 3 (27 sept - 11 oct">
-    <h1>Semaine 5-6</h1>
+  <div class="Progress 3 ">
+    <h1>Semaine 5-6 (27 sept - 11 oct)</h1>
     <h3>Rencontre des coéquipiers du projet avec M. Ian et individuellement avec moi. Le but final du projet nous a été divulgué par M. Ian : nous devons permettre au système existant d'apprendre un jeu en "sketch" et de pouvoir y jouer avec nous. Nous avions commencé par chacun créer un jeu inédit chacun et explorer plusieurs façons de transférer le concept de "règle" à plusieurs modèles de langage (LLM) pour déterminer la meilleure approche pour faire apprendre un jeu inédit à l'IA. Nous devions également créer un rapport de jeu et une analyse à présenter à M. Ian. J'ai aussi fait un design d'architecture pour le systeme afin de pouvoir integrer les 'regles' et je l'ai presenter a l'equipe et M. Ian.</h3>
   </div>
-  <div class="Progress 4 (12 oct - 18 oct">
-    <h1>Semaine 7</h1>
+  <div class="Progress 4 ">
+    <h1>Semaine 7 (12 oct - 18 oct)</h1>
     <h3>M. Ian nous ordonne de faire une etudes avec participants pour comprendre comment l'information est tranmis entre une personne qui explique le jeux et le partcipants. L'information sera utilsier pour simuler l'aspect humain dans le AI et pouvoir comprendre quel type d'information sur les regles sont mal transmises entre humains, et donc faire ne sorte que le system puis poser des questions recurrances sur ce meme type d'information. </h3>
   </div>
-  <div class="Progress 5 (19 oct - 27 oct">
-    <h1>Semaine 8</h1>
+  <div class="Progress 5 ">
+    <h1>Semaine 8 (19 oct - 27 oct)</h1>
     <h3>Semaine de Lecture - Nous avion conduit l'etude avec success</h3>
   </div>
-  <div class="Progress 6 (28 oct - 8 nov">
-    <h1>Semaine 9-10</h1>
+  <div class="Progress 6 ">
+    <h1>Semaine 9-10 (28 oct - 8 nov)</h1>
     <h3>Nous avons créé les transcriptions des vidéos prises durant l'étude pour ensuite effectuer une analyse quantitative sur le type de questions posées. Ian nous a fait part que le concept de "règles" est plutôt complexe et qu'il serait préférable de résoudre les problèmes progressivement. Nous devrions donc nous concentrer sur le concept de "gesturing" pour transmettre l'information. Le gesturing consiste à pointer un endroit pour connecter l'information verbale. Nous devons trouver un moyen de transmettre l'information par gesturing, qui est normalement une transmission en temps réel (vidéo), sous une forme itérable, donc par photo.</h3>
   </div>
   <div class="semaine 7">
