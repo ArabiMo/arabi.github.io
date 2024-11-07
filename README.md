@@ -4,11 +4,10 @@
   <h3>Student : Mohamed Arabi | Prof : Ian Arawjo</h3>
 </div>
 <div class="contenu">
-  <h3>Description</h3>
-
-  Ce projet consiste à améliorer le système DyNotate, construit par moi et l'équipe de Ian Arawjo durant l'été. L'objectif est de résoudre toutes les "dettes techniques" et d'approfondir les fonctionnalités possibles, telles que la création de "règles", afin d'atteindre, comme but final, la possibilité de jouer à un jeu de "sketch" avec DyNotate et de voir ce dernier nous battre dans ce même jeu. La plus grande charge de travail consistera à améliorer les fonctionnalités déjà créées pour obtenir un résultat semblant déterministe, malgré le fait que le système soit construit sur des LLM. 
-\n
-  Mon rôle : Mon rôle sera d'aider mes coéquipiers dans le même projet à comprendre et suivre les directives de M. Ian, d'améliorer la base de code pour une meilleure assimilation par les nouveaux arrivants sur le projet, et d'explorer le concept de "règles" et de "gestures" dans un système de "sketching" intégré avec l'IA. L'objectif final est d'intégrer le concept de "règles" dans la base de code afin qu'il soit prêt à être utilisé par des utilisateurs.
+  <h2>Description</h2>
+  <h3>Ce projet consiste à améliorer le système DyNotate, construit par moi et l'équipe de Ian Arawjo durant l'été. L'objectif est de résoudre toutes les "dettes techniques" et d'approfondir les fonctionnalités possibles, telles que la création de "règles", afin d'atteindre, comme but final, la possibilité de jouer à un jeu de "sketch" avec DyNotate et de voir ce dernier nous battre dans ce même jeu. La plus grande charge de travail consistera à améliorer les fonctionnalités déjà créées pour obtenir un résultat semblant déterministe, malgré le fait que le système soit construit sur des LLM. 
+</h3>
+  <h3>Mon rôle : Mon rôle sera d'aider mes coéquipiers dans le même projet à comprendre et suivre les directives de M. Ian, d'améliorer la base de code pour une meilleure assimilation par les nouveaux arrivants sur le projet, et d'explorer le concept de "règles" et de "gestures" dans un système de "sketching" intégré avec l'IA. L'objectif final est d'intégrer le concept de "règles" dans la base de code afin qu'il soit prêt à être utilisé par des utilisateurs.</h3>
 </div>  
 
 <div class="progess">
