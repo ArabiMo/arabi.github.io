@@ -14,8 +14,12 @@
     <h3>3) Les frameworks de dessin sur canvas utilisent tous la technique des "strokes" pour construire les formes. Regrouper les "strokes" puis les transmettre à l'IA sous forme de formes complètes est très complexe.</h3>
     <h3>4) Le plus grand défi est de transmettre l'information fournie par l'utilisateur via l'API de Tldraw et de la convertir en données compréhensibles par un LLM, permettant au modèle de répondre d'une manière qui puisse être retransmise à Tldraw, créant ainsi une conversation fluide et naturelle entre l'utilisateur et une IA capable d'interagir avec le canvas.</h3>
     <h3>5) Cela n'a jamais été réalisé.</h3>
-  
   <h4>Contexte: Je suis sur ce project depuis mai 2024.</h4>
+  <h4>Date de début et de la fin du proje : 30 novembre 2025</h4>
+  <h4>Spécification fonctionnelle : Integration d'une fonctionaliter d'adaptation de regle de jeux dans DyNotate. Modification du systeme DyNotate pour permettre l'action de jouer a un jeu avec DyNotate dans le canvas.</h4>
+  <h4>Environnement et contraintes techniques : Utilisation de TlDraw, Javascript et flask. Ne pas restraindre la liberter de DyNotate (Ne pas rendre le systeme deterministique au but)</h4>
+  <h4>Architecture logicielle : Architecture client-serveur avec microservices</h4>
+  <h4>Modules principaux : Module de generation de texte avec/sans format, gestion et creation d'object (TlDraw). </h4>
 </div>  
 
 <div class="progess">
