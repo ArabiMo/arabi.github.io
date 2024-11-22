@@ -57,15 +57,20 @@
     <h4>Solution : utiliser des crochets [] et des images pour indiquer les actions effectuées sur le canvas dans la transcription, modifier la tentative de conception du système pour passer des problèmes liés aux "règles" à ceux liés au "gesturing", et explorer les réponses des LLM selon les types de photos représentant des traces de "gesturing" qui produisent les meilleurs résultats.</h4>
   </div>
   <div class="semaine 7">
-    <h1>Semaine 7</h1>
-    <h3>Paragraph</h3>
+    <h1>Semaine 11 (9 nov - 15 nov)</h1>
+    <h3>Analyse de la réponse MLLM sur le sujet du gesturing. L'objectif est de trouver la meilleure façon de transmettre l'information liée au gesturing afin d'obtenir des réponses cohérentes et satisfaisantes. Mon approche a été d'utiliser des coordonnées pour décrire les zones du canevas où le gesturing a été survolé plusieurs fois. J'ai également intégré les bounding boxes de toutes les formes déjà présentes sur le canevas comme information supplémentaire pour faciliter le raisonnement spatial. Enfin, j'ai envoyé une image du canevas avec les mouvements de gesturing mis en évidence en jaune, accompagnés d'un point rouge pour indiquer le début du mouvement. Cela vise à améliorer la compréhension de l'ordre des gestes.</h3>
+<h4>Défis : Comment programmer cette approche dans la librairie TlDraw et notre système ?</h4>
+<h4>Solution : Utiliser l'outil de dessin "red dot" qui possède déjà la fonctionnalité de disparition progressive dans le canevas. Il faudrait localiser le fichier correspondant dans le module et le modifier pour augmenter sa taille, changer sa couleur, et prolonger le temps avant sa disparition. Cependant, la fonctionnalité de bounding box pour les gestes qui se répètent au même endroit reste un défi pour lequel je dois encore trouver une solution.
+</h4>
   </div>
   <div class="semaine 8">
-    <h1>Semaine 8</h1>
-    <h3>Paragraph</h3>
+    <h1>Semaine 10 (16 nov - 22 nov)</h1>
+    <h3>Ajout d'un nouvel outil de dessin dans le système existant. Cet outil est un surligneur qui disparaît progressivement avec le temps dans le
+      canevas pour représenter l'ordre temporel de l'emplacement de l'outil. Lecture de la documentation de TlDraw pour comprendre la section dédiée aux
+      outils.</h3>
   </div>
   <div class="semaine 9">
-    <h1>Semaine 9</h1>
+    <h1>Semaine 11 (23 nov - 29 nov)(</h1>
     <h3>Paragraph</h3>
   </div>
 </div>
